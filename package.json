@@ -1,0 +1,36 @@
+{
+    "name": "less-combiner",
+    "description": "LESS Combiner is a little helper to aggregate all your LESS and CSS files in to a singular file.",
+    "homepage": "https://github.com/jo-asakura/less-combiner",
+    "keywords": [
+        "node module",
+        "server",
+        "less",
+        "css",
+        "combiner"
+    ],
+    "author": {
+        "name": "Alexandr Marinenko",
+        "email": "alexander.marinenko@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/jo-asakura/less-combiner.git"
+    },
+    "main": "less-combiner.js",
+    "version": "0.1.1",
+    "devDependencies": {
+        "underscore": "*"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://raw.github.com/jo-asakura/less-combiner/master/LICENSE"
+        }
+    ],
+    "files": [
+        "less-combiner.js",
+        "LICENSE"
+    ],
+    "readmeFilename": "README.md"
+}
