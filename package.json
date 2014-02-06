@@ -19,6 +19,10 @@
     },
     "main": "less-combiner.js",
     "version": "0.1.1",
+    "dependencies": {
+        "simple-walk": "*",
+        "underscore": "*"
+    },
     "devDependencies": {
         "simple-walk": "*",
         "underscore": "*"
