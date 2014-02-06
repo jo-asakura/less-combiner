@@ -20,6 +20,7 @@
     "main": "less-combiner.js",
     "version": "0.1.1",
     "devDependencies": {
+        "simple-walk": "*",
         "underscore": "*"
     },
     "licenses": [
